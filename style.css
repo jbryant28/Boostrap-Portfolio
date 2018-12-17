@@ -42,10 +42,17 @@ padd {
 
 }
 
- img {
+ #imgg {
     width: 100%;
     height: auto;
+    
 }
+
+.img {
+  width: 220px;
+    height: 165px;
+}
+
 
 sc {
   height: 800px;
